@@ -1,5 +1,5 @@
 ## About this Project - Programação Web 1 2026.1
-Código-Fonte do Projeto desenvolvido durante as aulas de programação web 1 com HTML, CSS, Javascript e PHP no curso técnico integrado do IFSC 2025.1
+Código-Fonte do Projeto desenvolvido durante as aulas de programação web 1 com HTML, CSS, Javascript e PHP no curso técnico integrado do IFSC 2026.1
 
 ## Comandos básicos Git
 
